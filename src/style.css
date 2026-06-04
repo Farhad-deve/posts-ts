@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+input,textarea {
+    outline: none;
+}
+img {
+    max-width: 100%;
+}
+button:active {
+    transform: scale(0.98);
+}
+
+/* ========== ========== ==========  */
+
